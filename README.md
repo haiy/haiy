@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**haiy/haiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on an examle ...
 - 🌱 I’m currently learning laws ...
 - 👯 I’m looking to collaborate on akk
@@ -13,4 +8,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: guess ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
